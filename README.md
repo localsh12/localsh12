@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lokeshtirthani@gmail.com**
 
-- 📄  📄 Know about my experiences from [**Resume**](https://drive.google.com/file/d/1BoldS0r_mcWvvzbpXWoJzuKEtK2jsIzK/view?usp=sharing)
+- 📄 Know about my experiences from [**Resume**](https://drive.google.com/file/d/1BoldS0r_mcWvvzbpXWoJzuKEtK2jsIzK/view?usp=sharing)
 
 - ⚡ Fun fact **I think everything is within epsilon**
 
