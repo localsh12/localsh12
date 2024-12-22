@@ -1,5 +1,5 @@
 #<h1 align="center">Hi 👋, I'm Lokesh Tirthani</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=19F725&background=00000033&center=true&vCenter=true&width=600&lines=A+second-year+undergraduate+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+am+Interested+in+;Computer+Vision+and+Operation +Research" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=19F725&background=00000033&center=true&vCenter=true&width=600&lines=A+fourth-year+undergraduate+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+am+Interested+in+;Computer+Vision+and+Operation +Research" alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 - 🔭 I’m currently working on **Operation research Project**
